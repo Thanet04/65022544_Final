@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+h3{
+    margin-left: 850px;
+}
+
+h1{
+    margin-bottom: 25px;
+}
+
+.final{
+    background: -webkit-linear-gradient(lightblue, aqua,blueviolet); 
+    background: -o-linear-gradient(lightblue, aqua),blueviolet; 
+    background: -moz-linear-gradient(lightblue, aqua,blueviolet); 
+    background: linear-gradient(lightblue, aqua,blueviolet);
+}
+
+table, td, th {    
+    border: 2px solid #ddd;
+    text-align: left;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    padding: 15px;
+}
+
+button{
+    border-radius: 5px; 
+    height: 30px; 
+    width: 120px; 
+    margin-top: 10px;
+}
